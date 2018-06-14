@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  loggers:
+    com.chicovg: DEBUG
+
+nytArticlesSearchUrl: https://api.nytimes.com/svc/search/v2/articlesearch.json
