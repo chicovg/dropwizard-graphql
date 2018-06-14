@@ -1,6 +1,6 @@
 # DropwizardGraphQL
 
-A simple graph ql server build with dropwizard.  Fetches data from the New York Times article search API:
+A simple graph ql server built using dropwizard and graphql-java.  Fetches data from the New York Times article search API:
 
 http://developer.nytimes.com/
 
